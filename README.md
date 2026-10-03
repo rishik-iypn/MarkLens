@@ -92,3 +92,5 @@ Your documents stay on your Mac. MarkLens only talks to the network when you che
 Found a bug or have an idea? [Open an issue](https://github.com/TheCommandPrompt-Mac/MarkLens/issues).
 
 <p align="center"><sub>Made with care for macOS by Rishik.</sub></p>
+
+>Marklens will be turning into MarkLens Studio soon.
