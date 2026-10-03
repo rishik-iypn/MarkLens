@@ -1,6 +1,5 @@
 <p align="center">
-<img src="<img width="512" height="512" alt="marklens" src="https://github.com/user-attachments/assets/80f3e65a-e576-43ea-98e4-b80534c5b67a" />
-" width="128" alt="MarkLens icon">
+<img src="https://github.com/user-attachments/assets/80f3e65a-e576-43ea-98e4-b80534c5b67a" width="128 alt="MarkLens icon">
 </p>
 
 <h1 align="center">MarkLens</h1>
