@@ -18,7 +18,7 @@ Write in rich text, keep plain Markdown underneath.
 <p align="center">
 <img alt="macOS 26+" src="https://img.shields.io/badge/macOS-26%2B-black?logo=apple">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-SwiftUI-orange?logo=swift&logoColor=white">
-<img alt="Version" src="https://img.shields.io/badge/version-1.3-6E56CF">
+<img alt="Version" src="https://img.shields.io/badge/version-1.5-6E56CF">
 </p>
 
 ---
@@ -60,29 +60,11 @@ Most Markdown apps make you choose between pretty and plain. MarkLens edits like
 
 ## Install
 
-1. Download **MarkLens-1.3.dmg** from [Releases](https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest).
+1. Download **MarkLens-1.5.dmg** from [Releases](https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest).
 2. Open it and run **Install MarkLens**.
 3. The first time, right-click the installer → **Open** → **Open** (the app is not notarised yet).
 
 Requires **macOS 26 Tahoe** or later.
-
-## Build from source
-
-```bash
-git clone https://github.com/TheCommandPrompt-Mac/MarkLens.git
-cd MarkLens
-open MarkLens.xcodeproj
-```
-
-Choose your team under **Signing & Capabilities** and press ⌘R. You need **Xcode 26** or later.
-
-To build the installer and DMG:
-
-```bash
-./Tools/make-installer.sh
-```
-
-More details are in [DEVELOPING.md](DEVELOPING.md).
 
 ## Project layout
 
