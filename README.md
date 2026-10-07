@@ -10,7 +10,7 @@ Write in rich text, keep plain Markdown underneath.
 </p>
 
 <p align="center">
-<a href="https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest"><b>Download MarkLens 1.5</b></a> ·
+<a href="https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest"><b>Download MarkLens 1.7.1</b></a> ·
 <a href="https://thecommandprompt-mac.github.io/MarkLens/">Website</a> ·
 <a href="changelogs.md">What’s new</a>
 </p>
@@ -18,7 +18,7 @@ Write in rich text, keep plain Markdown underneath.
 <p align="center">
 <img alt="macOS 26+" src="https://img.shields.io/badge/macOS-26%2B-black?logo=apple">
 <img alt="Swift" src="https://img.shields.io/badge/Swift-SwiftUI-orange?logo=swift&logoColor=white">
-<img alt="Version" src="https://img.shields.io/badge/version-1.5-6E56CF">
+<img alt="Version" src="https://img.shields.io/badge/version-1.7.1-6E56CF">
 </p>
 
 ---
@@ -60,7 +60,7 @@ Most Markdown apps make you choose between pretty and plain. MarkLens edits like
 
 ## Install
 
-1. Download **MarkLens-1.5.dmg** from [Releases](https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest).
+1. Download **MarkLens-1.7.1.dmg** from [Releases](https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest).
 2. Open it and run **Install MarkLens**.
 3. The first time, right-click the installer → **Open** → **Open** (the app is not notarised yet).
 
