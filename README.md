@@ -11,7 +11,6 @@ Write in rich text, keep plain Markdown underneath.
 
 <p align="center">
 <a href="https://github.com/TheCommandPrompt-Mac/MarkLens/releases/latest"><b>Download MarkLens 1.7.1</b></a> ·
-<a href="https://thecommandprompt-mac.github.io/MarkLens/">Website</a> ·
 <a href="changelogs.md">What’s new</a>
 </p>
 
