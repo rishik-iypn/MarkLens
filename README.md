@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/80f3e65a-e576-43ea-98e4-b80534c5b67a" width="128 alt="MarkLens icon">
+<img src="https://github.com/user-attachments/assets/ccada4ee-1c6e-48c6-9533-3977e5fc8e92" width="128 alt="MarkLens icon">
 </p>
 
 <h1 align="center">MarkLens</h1>
@@ -92,4 +92,3 @@ Found a bug or have an idea? [Open an issue](https://github.com/TheCommandPrompt
 
 <p align="center"><sub>Made with care for macOS by Rishik.</sub></p>
 
->Marklens will be turning into MarkLens Studio soon.
