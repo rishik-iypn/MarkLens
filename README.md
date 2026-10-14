@@ -92,3 +92,6 @@ Found a bug or have an idea? [Open an issue](https://github.com/TheCommandPrompt
 
 <p align="center"><sub>Made with care for macOS by Rishik.</sub></p>
 
+> [!WARNING]
+> Version 1.7.1 is broken and has a signing bug which does not let the program to open, Kindly install V1.7.2 and use the app that way.
+
